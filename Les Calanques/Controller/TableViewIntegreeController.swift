@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TableViewIntegreeController: UITableViewController {
+class TableViewIntegreeController:  UITableViewController {
     
     var calanques: [Calanque] = []
     var cellId = "CalanqueCell"
@@ -57,7 +57,7 @@ class TableViewIntegreeController: UITableViewController {
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return 150
     }
-    
+     
 
     /*
     // Override to support conditional editing of the table view.
