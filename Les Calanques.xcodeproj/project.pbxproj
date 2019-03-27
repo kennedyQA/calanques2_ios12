@@ -20,6 +20,7 @@
 		B5306B11224A581A00807931 /* CalanqueCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5306B10224A581A00807931 /* CalanqueCell.swift */; };
 		B5306B13224A6A0300807931 /* ImageRonde.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5306B12224A6A0300807931 /* ImageRonde.swift */; };
 		B5306B15224A889300807931 /* CalanqueCellAlternative.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5306B14224A889300807931 /* CalanqueCellAlternative.swift */; };
+		B53F2775224BAFB1000C0FCF /* BoutonArrondi.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53F2774224BAFB1000C0FCF /* BoutonArrondi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		B5306B10224A581A00807931 /* CalanqueCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalanqueCell.swift; sourceTree = "<group>"; };
 		B5306B12224A6A0300807931 /* ImageRonde.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageRonde.swift; sourceTree = "<group>"; };
 		B5306B14224A889300807931 /* CalanqueCellAlternative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalanqueCellAlternative.swift; sourceTree = "<group>"; };
+		B53F2774224BAFB1000C0FCF /* BoutonArrondi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoutonArrondi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				B5306B10224A581A00807931 /* CalanqueCell.swift */,
 				B5306B12224A6A0300807931 /* ImageRonde.swift */,
 				B5306B14224A889300807931 /* CalanqueCellAlternative.swift */,
+				B53F2774224BAFB1000C0FCF /* BoutonArrondi.swift */,
 			);
 			path = Vue;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				B5306B11224A581A00807931 /* CalanqueCell.swift in Sources */,
 				B5306AF0224A2E8300807931 /* AppDelegate.swift in Sources */,
 				B5306B09224A380400807931 /* CalanqueCollection.swift in Sources */,
+				B53F2775224BAFB1000C0FCF /* BoutonArrondi.swift in Sources */,
 				B5306B0D224A3ADF00807931 /* ControllerAvecCarte.swift in Sources */,
 				B5306B15224A889300807931 /* CalanqueCellAlternative.swift in Sources */,
 				B5306B0B224A3AA300807931 /* ControllerAvecTableView.swift in Sources */,
