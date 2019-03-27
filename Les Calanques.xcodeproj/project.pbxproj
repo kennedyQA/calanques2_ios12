@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		78903366224B888800D3A81D /* DetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78903365224B888800D3A81D /* DetailController.swift */; };
 		B5306AF0224A2E8300807931 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5306AEF224A2E8300807931 /* AppDelegate.swift */; };
 		B5306AF7224A2E8300807931 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5306AF5224A2E8300807931 /* Main.storyboard */; };
 		B5306AF9224A2E8500807931 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5306AF8224A2E8500807931 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		78903365224B888800D3A81D /* DetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailController.swift; sourceTree = "<group>"; };
 		B5306AEC224A2E8300807931 /* Les Calanques.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Les Calanques.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5306AEF224A2E8300807931 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5306AF6224A2E8300807931 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				B5306B0A224A3AA300807931 /* ControllerAvecTableView.swift */,
 				B5306B0C224A3ADF00807931 /* ControllerAvecCarte.swift */,
 				B5306B0E224A3B5300807931 /* TableViewIntegreeController.swift */,
+				78903365224B888800D3A81D /* DetailController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				B5306B15224A889300807931 /* CalanqueCellAlternative.swift in Sources */,
 				B5306B0B224A3AA300807931 /* ControllerAvecTableView.swift in Sources */,
 				B5306B13224A6A0300807931 /* ImageRonde.swift in Sources */,
+				78903366224B888800D3A81D /* DetailController.swift in Sources */,
 				B5306B07224A34AF00807931 /* Calanques.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
